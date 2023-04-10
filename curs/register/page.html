@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Личный кабинет</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="../	scripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+	<header>
+    <h1><font face="Garamond" style="font-size:88px" onclick="window.open('../index.html', '_self')"><i><b>GO-TUR</b></i></font></h1>
+      <nav>
+        <ul>
+          <li><font face="Garamond" style="font-size:30px"><i><a href="#" onclick="toggleWindow()">Купить билеты</b></i></font></a></li>
+				<li><a href="#">Расписание помеченых туров</a></li>
+				<li><a href="#">Профиль</a></li>
+				<li><a href="#">Настройки</a></li>
+				<li><a href="#">Выйти</a></li>
+          		<li><font face="Garamond" style="font-size:30px"><i><a href="#" >Связь с нами</b></i></font></a></li>
+        </ul>
+      </nav>
+    </header>
+	<main>
+		<section>
+			<h2>Расписание помеченых туров</h2>
+			<table>
+  				<thead>
+    			<tr>
+      				<th>Дата</th>
+      				<th>Тур</th>
+    			</tr>
+  				</thead>
+  			<tbody>
+    		<tr>
+      		<td>1 Января, 2023</td>
+      		<td>Тур по Зимней сказке</td>
+    		</tr>
+    		<tr>
+      		<td> 14 Февраля, 2023</td>
+      		<td>Тур по Любовным краям</td>
+    		</tr>
+    		<tr>
+      		<td>16 Апреля, 2023</td>
+      		<td> Тур по Блинам</td>
+    		</tr>
+    		<tr>
+      		<td>23 июня, 2023</td>
+      		<td>Тур по мясу</td>
+    		</tr>
+    		<tr>
+      		<td>19 сентября , 2023</td>
+      		<td>Тур по днюхе</td>
+    		</tr>
+  		</tbody>
+		</table>
+		</section>
+		<section>
+			<h2>Профиль</h2>
+			<div class="profile">
+  <div class="profile-picture">
+    <img src="../img/profail.png" alt="Profile Picture">
+  </div>
+  <div class="profile-info">
+    <h2>Имя: Палач Рока</h2>
+    <p>Почта: d00mGuy66@slayer.com</p>
+    <a href="#" class="change-profile-pic">Изменить фото</a>
+    <h2>Ваши туры</h2>
+    <table>
+  				<thead>
+    			<tr>
+      				<th>Дата</th>
+      				<th>Тур</th>
+    			</tr>
+  				</thead>
+    <tbody>
+    		<tr>
+      		<td>1 Января, 2023</td>
+      		<td>Тур по Зимней сказке</td>
+    		</tr>
+    		<tr>
+      		<td> 14 Февраля, 2023</td>
+      		<td>Тур по Любовным краям</td>
+    		</tr>
+    		</tbody>
+    	</table>
+    
+  </div>
+</div>
+
+		</section>
+		<section>
+			<h2>Насторойки</h2>
+<form class="settings-form">
+    <h3>Личная информация</h3>
+    <label for="name">Имя:</label>
+    <input type="text" id="name" name="name" value="Палач Рока">
+    <label for="email">Почта:</label>
+    <input type="email" id="email" name="email" value="d00mGuy66@slayer.com">
+    <label for="phone">Телефон:</label>
+    <input type="tel" id="phone" name="phone" value="+7902211222">
+    <label for="location">Местоположение:</label>
+    <input type="text" id="location" name="location" value="Россия">
+    <h3>Безопасность</h3>
+    <label for="password">Новый пароль:</label>
+    <input type="password" id="password" name="password">
+    <label for="password">Старый пароль:</label>
+    <input type="password" id="check-password" name="password">
+    <label for="confirm-password">Подтвердить пароль:</label>
+    <input type="password" id="confirm-password" name="confirm-password">
+    <button type="submit">Сохранить изменения</button>
+  </form>
+		</section>
+	</main>
+	<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h4>О нас</h4>
+        <p>Наши основная чель это  - предоставить посетителям приятный и запоминающийся опыт, предлагая различные услуги и удобства, такие как проживание, рестораны, транспорт и гидов-экскурсоводов. 
+Туристические объекты могут находиться в ведении государственных учреждений, частных компаний или некоммерческих организаций/</p>
+      </div>
+      <div class="col-md-4">
+        <h4>Contact Us</h4>
+        <p>ул. Пушкина<br>г. Ульяновск, дом 23<br>Телефон: (+7) 902 211 52-94<br>Почта: gjarfrfger@mail.com</p>
+      </div>
+      <div class="col-md-4">
+        <h4>Следите за нами</h4>
+        <a href="#"><i class="fablogofoot"><img src="../img/fas.png"></i></a>
+        <a href="#"><i class="fablogofoot"><img src="../img/vk.png"></i></a>
+        <a href="#"><i class="fablogofoot"><img src="../img/insta.png"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

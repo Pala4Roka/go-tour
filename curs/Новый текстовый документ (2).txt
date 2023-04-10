@@ -1,0 +1,124 @@
+js/
+const centerWindow = document.getElementById('center-window');
+const openWindowButton = document.getElementById('open-window-button');
+openWindowButton.addEventListener('click', () => {
+  window.open( '_blank', 'width=800,height=600');
+});
+function shwoModal() {
+  var window = document.getElementById("window");
+  if (window.style.display === "none") {
+    window.style.display = "block";
+  } else {
+    window.style.display = "none";
+  }
+}
+const destination = document.getElementById("destination");
+const Price = document.getElementById("price");
+
+destination.addEventListener("change", function() {
+  const selectedOption = destination.value;
+
+  let price = 0;
+
+  if (selectedOption === "japa") {
+    price = 1000;
+  } else if (selectedOption === "russia") {
+    price = 1200;
+  } else if (selectedOption === "tokyo") {
+    price = 1500;
+  }
+
+  tourPrice.innerHTML = "$" + price;
+});
+
+html/
+<div id="window" style="display: none;">
+  <div class="ticket-window">
+    <button type="button" class="close--btn" id="modal_close" onclick="shwoModal()">×</button>
+  <h3>Подробнее о заказе </h3>
+
+  <form>
+    <label for="destination">Локация:</label>
+    <select id="destination" name="destination">
+      <option value="japa">Япони</option>
+      <option value="russia">Россия</option>
+      <option value="sha">Сша</option>
+      <option value="paris">Париж</option>
+    </select>
+    <br>
+    <label for="price">Цена:</label>
+    <input type="text" id="price" value="0" readonly>
+    <br>
+    <label for="hotel">Отель:</label>
+    <select id="hotel" name="hotel">
+      <option value="no-hotel">Без отеля</option>
+      <option value="budget-hotel">Бюджетный отель</option>
+      <option value="luxury-hotel">Люксовый</option>
+    </select>
+    <br>
+    <label for="tour">Тип тура:</label>
+    <input type="radio" id="tour1" name="tour" value="tour1">
+    <label for="tour1">Обычный</label>
+    <input type="radio" id="tour2" name="tour" value="tour2">
+    <label for="tour2">Достопремечательный</label>
+    <input type="radio" id="tour3" name="tour" value="tour3">
+    <label for="tour3">Незабываемый</label>
+    <br>
+    <button type="submit">Оформить сейчас</button>
+  </form>
+</div>
+</div>
+
+style/
+.ticket-window {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.ticket-window h3 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.ticket-window form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ticket-window label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.ticket-window select,
+.ticket-window input[type="number"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.ticket-window button { 
+  padding: 10px;
+  background-color: #008CBA;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.ticket-window button:hover {
+  background-color: #005F6B;
+}
