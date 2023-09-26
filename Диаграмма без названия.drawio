@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T07:25:44.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZGRcRFIikG3NWLReYn36" version="21.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-26T07:48:08.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Cg34TFsoolrAo8pWIW4B" version="21.8.2" type="github" pages="4">
   <diagram id="4sWvGPuvU2RC_D0kTsu_" name="Страница — 1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -232,13 +232,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QExf2XCLZhCIcE4Kel9j-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&quot;Запасы-склад (приходование)&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QExf2XCLZhCIcE4Kel9j-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&quot;Запасы-склад (приходование)&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="110" width="1310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I2e0SaPEn5_qbUS9rQDK-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела приёмки&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="I2e0SaPEn5_qbUS9rQDK-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела приёмки&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="190" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="I2e0SaPEn5_qbUS9rQDK-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="I2e0SaPEn5_qbUS9rQDK-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="1180" as="sourcePoint" />
             <mxPoint x="420.3100000000004" y="170.00000000000003" as="targetPoint" />
@@ -247,155 +247,155 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2e0SaPEn5_qbUS9rQDK-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="I2e0SaPEn5_qbUS9rQDK-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1160" as="sourcePoint" />
             <mxPoint x="620" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2e0SaPEn5_qbUS9rQDK-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="I2e0SaPEn5_qbUS9rQDK-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="1160" as="sourcePoint" />
             <mxPoint x="930" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2e0SaPEn5_qbUS9rQDK-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="I2e0SaPEn5_qbUS9rQDK-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1140" y="1140" as="sourcePoint" />
             <mxPoint x="1140" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2e0SaPEn5_qbUS9rQDK-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="I2e0SaPEn5_qbUS9rQDK-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1330" y="1130" as="sourcePoint" />
             <mxPoint x="1330" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела закупки&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела закупки&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="180" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-3" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела сертификации&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-3" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела сертификации&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="180" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-4" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер учётного отдела&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-4" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер учётного отдела&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990" y="175" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела маркетинга&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела маркетинга&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="170" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-6" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер склад&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-6" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Менеджер склад&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1330" y="170" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-7" target="qL9Cf8hcS_RGGJCDVjFb-8">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-7" target="qL9Cf8hcS_RGGJCDVjFb-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-7" value="" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-7" value="" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-8" target="qL9Cf8hcS_RGGJCDVjFb-11">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-8" target="qL9Cf8hcS_RGGJCDVjFb-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-8" value="1&lt;br&gt;проверка товара по количеству, серийному соответствию, сроку годности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-8" value="1&lt;br&gt;проверка товара по количеству, серийному соответствию, сроку годности" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="460" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-11">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-11" target="qL9Cf8hcS_RGGJCDVjFb-20">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-11" target="qL9Cf8hcS_RGGJCDVjFb-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-11" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="610" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-15" value="Несоответсвие документам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-15" value="Несоответсвие документам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="590" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-16" value="Полное соотвествие документов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-16" value="Полное соотвествие документов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="600" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-17" target="qL9Cf8hcS_RGGJCDVjFb-18">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-17" target="qL9Cf8hcS_RGGJCDVjFb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-17" value="выявление виновных лиц и предъявление претензий" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-17" value="выявление виновных лиц и предъявление претензий" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-18" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-18" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="155" y="780" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-20">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-20" value="2 Отображение в базе данных количества товара" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-20" value="2 Отображение в базе данных количества товара" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-21" value="Приходная накладная" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-21" value="Приходная накладная" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="510" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.541;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-20" target="qL9Cf8hcS_RGGJCDVjFb-21">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.541;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-20" target="qL9Cf8hcS_RGGJCDVjFb-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="630" as="sourcePoint" />
             <mxPoint x="530" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-24" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-24" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="445" y="720" as="sourcePoint" />
             <mxPoint x="555" y="720" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="720" as="sourcePoint" />
             <mxPoint x="450" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="930" as="sourcePoint" />
             <mxPoint x="1220" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="720" as="sourcePoint" />
             <mxPoint x="550" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qL9Cf8hcS_RGGJCDVjFb-31">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="qL9Cf8hcS_RGGJCDVjFb-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="750" as="sourcePoint" />
             <mxPoint x="680" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-31" target="qL9Cf8hcS_RGGJCDVjFb-32">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-31" target="qL9Cf8hcS_RGGJCDVjFb-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-31" value="3 Поиск серий в справочнике" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-31" value="3 Поиск серий в справочнике" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-32" target="qL9Cf8hcS_RGGJCDVjFb-33">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-32" target="qL9Cf8hcS_RGGJCDVjFb-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-32" value="4 Добавление серии в справочник" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-32" value="4 Добавление серии в справочник" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-33" target="qL9Cf8hcS_RGGJCDVjFb-36">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-33" target="qL9Cf8hcS_RGGJCDVjFb-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-33" value="5 Процесс сертификации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-33" value="5 Процесс сертификации" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-36" value="6 Разбиение каждой позиции номенклатуры по сериям" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-36" value="6 Разбиение каждой позиции номенклатуры по сериям" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-38">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="720" as="targetPoint" />
             <Array as="points">
@@ -404,10 +404,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-38" value="7 Процесс размещения серии товаров&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-38" value="7 Процесс размещения серии товаров&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=1.081;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-36" target="qL9Cf8hcS_RGGJCDVjFb-38">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=1.081;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-36" target="qL9Cf8hcS_RGGJCDVjFb-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="850" />
@@ -417,7 +417,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-40">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="660" as="targetPoint" />
             <Array as="points">
@@ -426,40 +426,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-40" value="8 Определение и ввод базовой цены&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-40" value="8 Определение и ввод базовой цены&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="qL9Cf8hcS_RGGJCDVjFb-40">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="qL9Cf8hcS_RGGJCDVjFb-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1220" y="930" as="sourcePoint" />
             <mxPoint x="1250" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-42" value="Карточка товара" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-42" value="Карточка товара" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="670" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-40" target="qL9Cf8hcS_RGGJCDVjFb-42">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qL9Cf8hcS_RGGJCDVjFb-40" target="qL9Cf8hcS_RGGJCDVjFb-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1260" y="760" as="sourcePoint" />
             <mxPoint x="1310" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-44" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-44" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="1620" y="770" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="810" as="sourcePoint" />
             <mxPoint x="1530" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="710" as="sourcePoint" />
             <mxPoint x="1640" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qL9Cf8hcS_RGGJCDVjFb-44">
+        <mxCell id="qL9Cf8hcS_RGGJCDVjFb-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="qL9Cf8hcS_RGGJCDVjFb-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1635" y="710" as="sourcePoint" />
             <mxPoint x="1730" y="770" as="targetPoint" />
@@ -526,6 +526,234 @@
         </mxCell>
         <mxCell id="n7WKQrsLuyynmrVhdAdF-1" value="&lt;table class=&quot;MsoNormalTable&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;905&quot; style=&quot;border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:&#xa; 1184;mso-padding-alt:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa; &lt;tbody&gt;&lt;tr style=&quot;mso-yfti-irow:0;mso-yfti-firstrow:yes&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; style=&quot;width:68.3pt;background:#D8D8D8;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableHeading&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Диаграмма и номер операции на диаграмме&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; style=&quot;width:86.3pt;background:#D8D8D8;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableHeading&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Операция&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; style=&quot;width:78.65pt;background:#D8D8D8;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableHeading&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Исполнитель&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; style=&quot;width:84.1pt;background:#D8D8D8;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableHeading&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Как часто&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; style=&quot;width:132.35pt;background:#D8D8D8;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableHeading&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Входящие документы&#xa;  (документы-основания)&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:1&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;5&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:2&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_251&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;1а&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1. Получение внутренней статистики&#xa;  продаж&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер гр. планирования и&#xa;  маркетинга&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежесуточно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Отчет-таблица собственных продаж&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:3&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_253&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;1б&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;2. Получение внешней статистики&#xa;  продаж&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер гр. планирования и&#xa;  маркетинга&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежесуточно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Отчет-таблица продаж внешних&#xa;  источников&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:4&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_255&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3. Расчет потребностей в товаре&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер гр. планирования и&#xa;  маркетинга&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Еженедельно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_256&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;Отчет-таблица собственных продаж&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_257&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;Отчет-таблица продаж внешних источников&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:5&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_259&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;4. Ввод в систему прайс-листов&#xa;  поставщиков&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер отдела закупок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежемесячно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Прайс-листы поставщиков&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:6&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_261&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;5. Анализ предложений поставщиков и&#xa;  действующих контрактов&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер отдела закупок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежемесячно и по мере необходимости&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_262&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;Прайс-листы поставщиков&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_263&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;Контракты действующие&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:7&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_265&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;5&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;6. Выбор поставщиков&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер отдела закупок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежемесячно и по мере необходимости&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Список поставщиков&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:8&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_267&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;6&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;7. Формирование графика поставок без указания&#xa;  количества&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер отдела закупок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежемесячно и по мере необходимости&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_268&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;Список поставщиков с расстановкой приоритетов&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_269&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;Таблица потребностей в товаре&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:9&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_271&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;7&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;8. Расчет необходимого количества&#xa;  закупок с учетом остатка на складе и страхового запаса&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер группы логистики&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежемесячно и по мере необходимости&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Таблица потребностей в товаре, график&#xa;  поставок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:10&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_273&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;8&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;9. Формирование заказов поставщикам с&#xa;  учетом складских остатков, товара в пути и резервного запаса&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер группы логистики&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежедневно по плану заявок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;План заявок на месяц, график&#xa;  поставок, прайс-листы поставщиков&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:11&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_275&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;9&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;10. Расчет затрат на сертификацию&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер группы логистики&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;По мере необходимости&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Заказы поставщику&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:12&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_277&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;10&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;11. Проверка затрат на непревышение&#xa;  нормы&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер группы логистики&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;По мере необходимости&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Отчет о затратах на сертификацию&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:13&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_279&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;11&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;12. Подпись заказа менеджером по&#xa;  логистике, директором ДМ&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер группы логистики&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежедневно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Заказы поставщику&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:14&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_281&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;12&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;13. Направление заказа в отдел&#xa;  закупок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер группы логистики&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежедневно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Заказы поставщику акцептованные&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;mso-yfti-irow:15;mso-yfti-lastrow:yes&quot;&gt;&#xa;  &lt;td width=&quot;91&quot; valign=&quot;top&quot; style=&quot;width:68.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1Пл_Зак&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot; style=&quot;margin-bottom:14.15pt&quot;&gt;&lt;a name=&quot;id_283&quot;&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;13&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:2.0pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;115&quot; valign=&quot;top&quot; style=&quot;width:86.3pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;14. Направление заказа поставщику&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;105&quot; valign=&quot;top&quot; style=&quot;width:78.65pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Менеджер отдела закупок&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;112&quot; valign=&quot;top&quot; style=&quot;width:84.1pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ежедневно&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa;  &lt;td width=&quot;176&quot; valign=&quot;top&quot; style=&quot;width:132.35pt;background:#EAEAEA;padding:&#xa;  1.5pt 1.5pt 1.5pt 1.5pt&quot;&gt;&#xa;  &lt;p class=&quot;TableContents&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Заказы поставщику акцептованные&lt;/span&gt;&lt;/p&gt;&#xa;  &lt;/td&gt;&#xa; &lt;/tr&gt;&#xa;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="130" width="560" height="5960" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="brvBS9B-3NTi8BvmWAjF" name="Страница — 4">
+    <mxGraphModel dx="2049" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Продажи клиентам (5ПродКл)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="1150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Менеджер отдела продаж&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Менеджер учётно-операционного отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="140" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LDxXxoxsDb2sIifR8tU1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="2010" as="sourcePoint" />
+            <mxPoint x="890" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-5" target="LDxXxoxsDb2sIifR8tU1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-5" value="" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-6" target="LDxXxoxsDb2sIifR8tU1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-6" value="1&amp;nbsp;&lt;br&gt;Получение от клиента заказа с указанием номенклатурных единиц товара по&lt;br/&gt;количеству, серийному соответствию, сроку годности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-7" target="LDxXxoxsDb2sIifR8tU1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-7" value="2&lt;br&gt;Проверка наличия у клиента лицензии на заказанные медикаменты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="450" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-8" target="LDxXxoxsDb2sIifR8tU1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-8" value="3&lt;br&gt;Проверка наличия товарных запасов на складе" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="700" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-9" value="4&lt;br&gt;Размещение заказа в реестре неудовлетворенный спрос" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="880" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-11" target="LDxXxoxsDb2sIifR8tU1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-11" value="5&lt;br&gt;Процесс формирования заявки на основании заказа и договора" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="890" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-12" target="LDxXxoxsDb2sIifR8tU1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-12" value="6&lt;br&gt;Резервирование товара" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1000" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-13" target="LDxXxoxsDb2sIifR8tU1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-13" value="7&lt;br&gt;Контроль кредитного лимита и &lt;a name=&quot;keyword73&quot;&gt;&lt;/a&gt;дебиторской&lt;br/&gt;задолженности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1120" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-14" value="8&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br/&gt;&lt;/span&gt;&lt;/span&gt;Отклонение заявки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-17" target="LDxXxoxsDb2sIifR8tU1-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-22" value="Лицензия есть" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDxXxoxsDb2sIifR8tU1-20">
+          <mxGeometry x="-0.1551" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-23" value="Лицензия нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDxXxoxsDb2sIifR8tU1-21">
+          <mxGeometry x="-0.1151" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-25" target="LDxXxoxsDb2sIifR8tU1-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-29" value="Недостаточно запасов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDxXxoxsDb2sIifR8tU1-27">
+          <mxGeometry x="-0.3966" y="-1" relative="1" as="geometry">
+            <mxPoint x="-21" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-25" target="LDxXxoxsDb2sIifR8tU1-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-31" value="Достаточно запасов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDxXxoxsDb2sIifR8tU1-28">
+          <mxGeometry x="0.0223" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="790" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1000" as="sourcePoint" />
+            <mxPoint x="60" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1000" as="sourcePoint" />
+            <mxPoint x="70" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="713" as="sourcePoint" />
+            <mxPoint x="200" y="713" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="710" as="sourcePoint" />
+            <mxPoint x="200" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-38" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="680" as="sourcePoint" />
+            <mxPoint x="410" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="sourcePoint" />
+            <mxPoint x="300" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-40" value="Заявка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="900" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-11" target="LDxXxoxsDb2sIifR8tU1-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1000" as="sourcePoint" />
+            <mxPoint x="680" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-44" target="LDxXxoxsDb2sIifR8tU1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-48" value="Есть привышение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDxXxoxsDb2sIifR8tU1-46">
+          <mxGeometry x="0.0967" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LDxXxoxsDb2sIifR8tU1-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-49" value="Нет привышений" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDxXxoxsDb2sIifR8tU1-47">
+          <mxGeometry x="-0.1078" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-44" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="1230" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-50" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="1520" as="sourcePoint" />
+            <mxPoint x="635" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1490" as="sourcePoint" />
+            <mxPoint x="390" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="1410" as="sourcePoint" />
+            <mxPoint x="590" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1440" as="sourcePoint" />
+            <mxPoint x="630" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDxXxoxsDb2sIifR8tU1-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LDxXxoxsDb2sIifR8tU1-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="1520" as="sourcePoint" />
+            <mxPoint x="490" y="1550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
