@@ -1,164 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T09:08:36.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="41gTZcr7Rh8i1HvnaDOH" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-10T09:35:51.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="O1f3RzKrdNAMFAZgFvw1" version="22.0.4" type="github" pages="2">
   <diagram name="Страница — 1" id="xLpM_DlrDciEQwVskZsL">
     <mxGraphModel dx="1728" dy="2580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nYOYtLeV4sklabvxNNeh-1" value="Номер операции на диаграме" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1590" width="180" height="60" as="geometry" />
+          <mxGeometry x="30" y="-1580" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-2" value="Операция" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1590" width="160" height="60" as="geometry" />
+          <mxGeometry x="210" y="-1580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-3" value="Специфика разработки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1590" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="-1580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-4" value="Необходимые разработки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1590" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="-1580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-5" value="Функциональность(модуль) системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1590" width="190" height="60" as="geometry" />
+          <mxGeometry x="690" y="-1580" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-6" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1530" width="180" height="30" as="geometry" />
+          <mxGeometry x="30" y="-1520" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1530" width="160" height="30" as="geometry" />
+          <mxGeometry x="210" y="-1520" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-8" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1530" width="160" height="30" as="geometry" />
+          <mxGeometry x="530" y="-1520" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-9" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1530" width="160" height="30" as="geometry" />
+          <mxGeometry x="370" y="-1520" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-10" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1530" width="190" height="30" as="geometry" />
+          <mxGeometry x="690" y="-1520" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-11" value="1 (1Пл_3ак)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1500" width="180" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-11" value="1(3_ск)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1490" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-12" value="1. Проверка товара по количеству, серийному соответствию сроку годности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1500" width="160" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-12" value="1.проверка товара по количеству, серийному соответствию, сроку годности&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1490" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-13" value="Коды материалов в файле соответствующей кодировке в Системе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1500" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="-1490" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-14" value="Разаботка узла хранения данных товара&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1500" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="-1490" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-15" value="Продажи, товары" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1500" width="190" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-15" value="проверак,товары" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1490" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-18" value="2. Получение внешней статистики продаж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1230" width="160" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-18" value="2. процесс выявление&amp;nbsp; и предъявление претензий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-19" value="Коды товара в файле соответствуют кодировке в Системе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1230" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="-1220" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-20" value="Разработка узла хранения данных статистики продаж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1230" width="160" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-20" value="Разработка механизма&amp;nbsp; выцявление притезий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1220" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-21" value="Продажи, товары" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1230" width="190" height="180" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-21" value="Претезии,клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1220" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-22" value="2(1Пл_3ак)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1050" width="185" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-22" value="2&amp;nbsp; б (1Пл_3ак)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1080" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-23" value="3.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="-1050" width="160" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-23" value="3. Соответствие дукоментов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1080" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-1050" width="160" height="60" as="geometry" />
+          <mxGeometry x="527.5" y="-1080" width="162.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-1050" width="160" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-25" value="Разработка механизма который будет расщитывать потребности в товаре" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1080" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-1050" width="190" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-26" value="Товар,клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1080" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-990" width="185" height="60" as="geometry" />
+          <mxGeometry x="30" y="-1020" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="-990" width="160" height="60" as="geometry" />
+          <mxGeometry x="210" y="-1020" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-990" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="-1020" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-990" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="-1020" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-990" width="190" height="60" as="geometry" />
+          <mxGeometry x="690" y="-1020" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-32" value="Разработка узла хранения данных статистики продаж&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1440" width="160" height="40" as="geometry" />
+          <mxGeometry x="370" y="-1430" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-33" value="Разработка узла хранения данных статистики продаж&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1440" width="160" height="40" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-33" value="Разработка механизма проверки товара" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1430" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-34" value="1б (1Пл_3ак)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1230" width="180" height="60" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-34" value="2 а (3_ск)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1220" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-35" value="Единица измерения номенклатуры соответственно, единица измерения в Системе. Коды номенклатуры статистики соответствуют кодам номенклатуры Системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1440" width="160" height="210" as="geometry" />
+          <mxGeometry x="530" y="-1430" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1440" width="190" height="210" as="geometry" />
+          <mxGeometry x="690" y="-1430" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1440" width="160" height="210" as="geometry" />
+          <mxGeometry x="210" y="-1430" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1440" width="180" height="210" as="geometry" />
+          <mxGeometry x="30" y="-1430" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1400" width="160" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-40" value="Разработка механизма продажи товара статистистики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1170" width="160" height="40" as="geometry" />
+          <mxGeometry x="370" y="-1390" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-930" width="185" height="60" as="geometry" />
+          <mxGeometry x="30" y="-960" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="-930" width="160" height="60" as="geometry" />
+          <mxGeometry x="210" y="-960" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-930" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="-960" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-930" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="-960" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-930" width="190" height="60" as="geometry" />
+          <mxGeometry x="690" y="-960" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-870" width="185" height="60" as="geometry" />
+          <mxGeometry x="30" y="-900" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="-870" width="160" height="60" as="geometry" />
+          <mxGeometry x="210" y="-900" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-870" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="-900" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-870" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="-900" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-870" width="190" height="60" as="geometry" />
+          <mxGeometry x="690" y="-900" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nYOYtLeV4sklabvxNNeh-52" value="Единица измерения номенклатуры соответствуют измерения в Системе. Коды номенклатуры статистики соответствуют кодам номенклатуры Системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1170" width="160" height="120" as="geometry" />
+        <mxCell id="nYOYtLeV4sklabvxNNeh-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-1160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-1130" width="160" height="80" as="geometry" />
+          <mxGeometry x="370" y="-1160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-54" value="&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1170" width="160" height="120" as="geometry" />
+          <mxGeometry x="210" y="-1160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nYOYtLeV4sklabvxNNeh-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1170" width="180" height="120" as="geometry" />
+          <mxGeometry x="30" y="-1160" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eUUDmIeHUWmPiPd6V3A3-1" value="Запасы-склад(приходование&amp;nbsp; товаров)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="-1640" width="240" height="30" as="geometry" />
@@ -167,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RsxhFtWmsPTmZFdcgfTk" name="Страница — 2">
-    <mxGraphModel dx="4148" dy="3876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="2961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
