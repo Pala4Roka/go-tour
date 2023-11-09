@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T10:03:56.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="btjQr08ISSJ8Y0sMnwue" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-09T04:43:46.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.933 YaBrowser/23.9.3.933 Yowser/2.5 Safari/537.36" etag="y-ocbyfy7C0o2fzDCPj0" version="22.1.0" type="github" pages="5">
   <diagram id="0PLSjJJWs0ZV1rNuidg5" name="Часть 1.1">
-    <mxGraphModel dx="6930" dy="3955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,19 +438,19 @@
         <mxCell id="XzU06o22X9Vtwm5X7Xl4-119" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="3231" y="2180" width="63.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7nsw0NWWje7eCBXQW9Gd-1" value="Общее описание&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nsw0NWWje7eCBXQW9Gd-1" value="Общее описание&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1287" y="1588" width="263" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7nsw0NWWje7eCBXQW9Gd-2" value="Компания &quot;ПРОД&quot; закупает продукты отечественных и зарубежных производителей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nsw0NWWje7eCBXQW9Gd-2" value="Компания &quot;ПРОД&quot; закупает продукты отечественных и зарубежных производителей" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1287" y="1630" width="263" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7nsw0NWWje7eCBXQW9Gd-3" value="Компания осучествляет сортировку и на складе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nsw0NWWje7eCBXQW9Gd-3" value="Компания осучествляет сортировку и на складе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1287" y="1672" width="263" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7nsw0NWWje7eCBXQW9Gd-4" value="Компания осуществляет доставку продуктов как собственным транспортом так и при помощи сторонних организаций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nsw0NWWje7eCBXQW9Gd-4" value="Компания осуществляет доставку продуктов как собственным транспортом так и при помощи сторонних организаций" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1287" y="1706" width="263" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7nsw0NWWje7eCBXQW9Gd-5" value="Компания получает доход" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nsw0NWWje7eCBXQW9Gd-5" value="Компания получает доход" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1287" y="1748" width="263" height="42" as="geometry" />
         </mxCell>
       </root>
@@ -4812,6 +4812,14 @@
         <mxCell id="n0MwVNjbIddNq0FSZJnF-97" value="Свободное планирование,&amp;nbsp;&lt;br&gt;логистика,торговля" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="2571" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KhgNkU6YYRX8wgTY8wFt" name="Страница — 5">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
